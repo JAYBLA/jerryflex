@@ -1,0 +1,32 @@
+.main-footer{
+    background-image: url(../images/background/3.jpg);
+}
+
+.slide1{
+    background-image: url(../images/main-slider/image-1.jpg);
+}
+
+.slide2{
+    background-image: url(../images/main-slider/image-2.jpg);
+}
+
+.about-section-inner-container{
+    background-image: url(../images/background/pattern-1.png);
+}
+
+.service-block-bg{
+    background-image: url(../images/background/service-bg.png);
+}
+
+.cta-section{
+    background-image: url(../images/background/1.jpg);
+}
+
+.pattern-layer{
+    background-image: url(../images/background/pattern-4.jpg);
+}
+
+.pattern-layer2{
+    background-image: url(../images/background/service-bg.png);
+}
+

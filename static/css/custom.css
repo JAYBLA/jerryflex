@@ -30,3 +30,7 @@
     background-image: url(../images/background/service-bg.png);
 }
 
+.header-lower{
+    background: linear-gradient(125deg, #f05523 60%, #fff 60%) !important;
+}
+

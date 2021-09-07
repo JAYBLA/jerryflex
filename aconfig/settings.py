@@ -120,8 +120,8 @@ if not DEBUG:
         BASE_DIR / "static",
     ]
 
-    MEDIA_ROOT = '/home/jayblaco/sitedemo.jaybla.com/public_html/media'
-    STATIC_ROOT = '/home/jayblaco/sitedemo.jaybla.com/public_html/static'
+    MEDIA_ROOT = '/home/jayblaco/jerryflex.jaybla.com/public_html/media'
+    STATIC_ROOT = '/home/jayblaco/jerryflex.jaybla.com/public_html/static'
 else:
     STATICFILES_DIRS = [
         BASE_DIR / "static",
